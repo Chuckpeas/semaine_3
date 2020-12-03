@@ -1,0 +1,26 @@
+.red {
+    width: 400px;
+    height: 400px;
+    border-radius: 200px;
+    background: red;
+    align-items: center;
+    justify-content: center;
+}
+
+.green {
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    background: green;
+    
+    
+}
+
+.blue {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    background: blue;
+    
+}
+

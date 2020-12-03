@@ -1,0 +1,22 @@
+.parent div{
+  width: 200px;
+  height: 200px;
+  display:inline-block;
+}
+
+.carre1{
+  background-color: blueviolet;
+}
+.carre2{
+  background-color: burlywood;
+}
+.carre3{
+  background-color: darkblue;
+}
+.carre4{
+  background-color: lightsalmon;
+}
+
+.menu li{
+  display: inline-block;
+}
